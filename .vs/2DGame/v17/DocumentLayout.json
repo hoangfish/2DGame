@@ -1,106 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\2DGame\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\2DGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ActiveWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|c:\\users\\admin\\2dgame\\assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\TransparentDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Projectial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\IEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\IEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\UI\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\ScreenShakeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Misc\\ScreenShakeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\EnemyHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Users\\Admin\\2DGame\\assets\\scripts\\player\\slashanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\slashanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Misc\\Knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Misc\\Flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyPathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\Shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\Shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\EconomyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Misc\\EconomyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\TransparentDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TransparentDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\EnemyPathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\DamageSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\DamageSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Projectial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Projectial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\SlashAnim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\SlashAnim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,11 +106,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\IEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\IEnemy.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\IEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\IEnemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Stamina.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\Stamina.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Stamina.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Stamina.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\Stamina.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Stamina.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Stamina.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Pickup.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Pickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pickup.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Pickup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Pickup.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pickup.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ActiveInventory.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\UI\\ActiveInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ActiveInventory.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\UI\\ActiveInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ActiveInventory.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,24 +178,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "EnemyAI.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:40:54.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:40:54.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ScreenShakeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Misc\\ScreenShakeManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "Knockback.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Knockback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Knockback.cs",
               "RelativeToolTip": "Assets\\Scripts\\Misc\\Knockback.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Flash.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\Flash.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Flash.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Flash.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\Flash.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\Flash.cs",
               "RelativeToolTip": "Assets\\Scripts\\Misc\\Flash.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,34 +238,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
               "Title": "TransparentDetection.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\TransparentDetection.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TransparentDetection.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\TransparentDetection.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\TransparentDetection.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TransparentDetection.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\TransparentDetection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T22:58:57.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "Parallax.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Parallax.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Parallax.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\Parallax.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Parallax.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Parallax.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\Parallax.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T23:14:59.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Shooter.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Shooter.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\Shooter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\Shooter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Shooter.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAAwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,23 +273,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "Projectial.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Projectial.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectial.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\Projectial.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Projectial.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Projectial.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\Projectial.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T01:00:01.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "EconomyManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\EconomyManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\EconomyManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Misc\\EconomyManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Misc\\EconomyManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -306,23 +297,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "Destructible.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Destructible.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Destructible.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\Destructible.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Destructible.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Destructible.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\Destructible.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T22:23:00.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "EnemyPathfinding.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "DamageSource.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\DamageSource.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DamageSource.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\DamageSource.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\DamageSource.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\DamageSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +335,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Sword.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\Sword.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Sword.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sword.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\Sword.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\Sword.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Sword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T01:50:17.972Z",
               "EditorCaption": ""
@@ -358,19 +349,19 @@
               "DocumentIndex": 1,
               "Title": "ActiveWeapon.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ActiveWeapon.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ActiveWeapon.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\ActiveWeapon.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T01:49:36.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "SlashAnim.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\SlashAnim.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\SlashAnim.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SlashAnim.cs",
-              "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\Player\\SlashAnim.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\2DGame\\Assets\\Scripts\\Player\\SlashAnim.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\SlashAnim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,34 +369,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\EnemyAI.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T21:49:04.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "EnemyPathfinding.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPathfinding.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyPathfinding.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\EnemyPathfinding.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T21:58:22.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\2DGame\\Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\Admin\\2DGame\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "..\\..\\2DGame\\Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T06:55:45.483Z"
